@@ -1,11 +1,10 @@
 '''
 Michael Brickley
-MET CS 521
-3/7/2019
-Term Project
+Trivia Quiz
 This program is a trivia quiz which asks the user 15 questions of varying topics.
 The program calculates the users score and outputs the results to a text file.
-The user is then allowed the option to start the quiz over again, or terminate the program
+The user is allowed the option to start the quiz over again, or terminate the program
+Python Version [2/3]: 3
 '''
 
 #import modules
